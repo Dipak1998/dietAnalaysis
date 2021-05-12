@@ -1,0 +1,66 @@
+.input-form {
+  /* background-color: blue; */
+  /* margin-top: 20px; */
+  margin: 20px 0 0 80px;
+}
+.text {
+  color: green;
+  font-weight: bold;
+}
+
+.input-field {
+  margin: 40px;
+  padding: 40px;
+  padding-bottom: 0;
+}
+.input-field textarea {
+  /* display: flex; */
+  width: 400px;
+  height: 400px;
+}
+.btn {
+  text-align: center;
+}
+.btn button {
+  padding: 8px;
+  margin: 8px;
+  border: 1px solid rgb(89 243 89);
+  background-color: rgb(89 243 89);
+  color: #ffff;
+  border-radius: 4px;
+}
+
+/* for responsive view */
+@media screen and (max-width: 700px) {
+  .input-form {
+    margin: 0;
+  }
+  .text p {
+    margin: 10px;
+    text-align: justify;
+    line-height: 1.5;
+  }
+  .input-field {
+    text-align: center;
+  }
+  .input-field textarea {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .input-field {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .input-field textarea {
+    width: 240px;
+    height: 240px;
+    margin: auto;
+  }
+}

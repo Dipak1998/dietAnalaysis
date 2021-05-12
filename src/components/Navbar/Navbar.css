@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: rgb(89 243 89);
+  color: #ffff;
+}
+.navbar div {
+  flex: 1;
+}
+.navbar div.logo img {
+  width: 140px;
+}
+.brand-name {
+  float: right;
+}
+
+/* styling for responsive view */
+@media screen and (max-width: 700px) {
+  .navbar div.logo img {
+    width: 100px;
+  }
+}

@@ -1,0 +1,1 @@
+https://api.edamam.com/api/nutrition-data?app_id=42b7efdf&app_key=94afc6a161de3c9c0249d8287d3799b7%20&ingr=1%20cup%20rice
