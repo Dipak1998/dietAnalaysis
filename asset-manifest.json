@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dietAnalaysis/static/css/main.92d9b936.chunk.css",
+    "main.css": "/dietAnalaysis/static/css/main.2f59adf1.chunk.css",
     "main.js": "/dietAnalaysis/static/js/main.60f21774.chunk.js",
     "main.js.map": "/dietAnalaysis/static/js/main.60f21774.chunk.js.map",
     "runtime-main.js": "/dietAnalaysis/static/js/runtime-main.33a7f8b0.js",
@@ -10,13 +10,13 @@
     "static/js/3.dfc6da24.chunk.js": "/dietAnalaysis/static/js/3.dfc6da24.chunk.js",
     "static/js/3.dfc6da24.chunk.js.map": "/dietAnalaysis/static/js/3.dfc6da24.chunk.js.map",
     "index.html": "/dietAnalaysis/index.html",
-    "static/css/main.92d9b936.chunk.css.map": "/dietAnalaysis/static/css/main.92d9b936.chunk.css.map",
+    "static/css/main.2f59adf1.chunk.css.map": "/dietAnalaysis/static/css/main.2f59adf1.chunk.css.map",
     "static/js/2.e6540b35.chunk.js.LICENSE.txt": "/dietAnalaysis/static/js/2.e6540b35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.33a7f8b0.js",
     "static/js/2.e6540b35.chunk.js",
-    "static/css/main.92d9b936.chunk.css",
+    "static/css/main.2f59adf1.chunk.css",
     "static/js/main.60f21774.chunk.js"
   ]
 }
